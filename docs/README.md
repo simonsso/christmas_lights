@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://studio.youtube.com/channel/UC1ZS6LqTfWTwqCG9lyjIjBQ) and 
+![Image](julpyssel)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
