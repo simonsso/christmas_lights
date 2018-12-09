@@ -10,6 +10,3 @@ A very quick hack as julpyssel.
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/2vVJAMOSDZU">
 </iframe>
-
-
-java.lang.NullPointerException thrown while loading gnu.io.RXTXCommDriver
