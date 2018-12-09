@@ -6,5 +6,8 @@ A very quick hack as julpyssel.
 *  Ad a arduino from the project.
 *  PWM on a few ports.
 
-[(https://studio.youtube.com/channel/UC1ZS6LqTfWTwqCG9lyjIjBQ] and 
-![julpyssel.jpg]
+[Move]:https://studio.youtube.com/channel/UC1ZS6LqTfWTwqCG9lyjIjBQ
+
+
+and 
+![image]julpyssel.jpg
