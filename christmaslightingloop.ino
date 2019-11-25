@@ -36,6 +36,7 @@ void loop() {
     for (int led = 0; led<numleds; led++) {
         brightness[led] = brightness[led] + delta[led];
         if (brightness[led] > maxval){
+           // +- are equaly bright only fade direction differs
            brightness[led] = - maxval;
         }
         // shift out and ignore LSB
