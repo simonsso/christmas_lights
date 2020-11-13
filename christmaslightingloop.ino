@@ -17,9 +17,8 @@ void setup() {
 void loop() {
   const int SHIFT=6;
 
-//  const int maxval = (256<<SHIFT) -1;
-//  max val of 0x4000-1 (16384) will run to 100% duty cycle.
-//  setting maxval to lower will never max out.
+  //  max val of 0x4000-1 (16384) will run to 100% duty cycle.
+  //  setting maxval to lower will never max out.
   const int maxval = 12000;
   
   int   brightness[4];
@@ -29,7 +28,7 @@ void loop() {
   brightness[0] = 0;
   brightness[1] = 0;  
   brightness[2] = 0;
-  brightness[4] = 0;
+  brightness[3] = 0;
 
   while (1){
     // update brighness
