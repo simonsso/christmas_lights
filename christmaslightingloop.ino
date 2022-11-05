@@ -3,8 +3,9 @@
 
 
 // Put the pins used in an array
-const int numleds = 4 ;
-int pin[]= {LED_BUILTIN,9,10,11};
+// For difispark Atmel Tiny 85 this works for P0 P1 and P4
+const int numleds = 7 ;
+int pin[]= {0,1,2,3,4,5,6     };
 
 void setup() {
   // set pins as outputs:
@@ -24,12 +25,12 @@ void loop() {
   
   int   brightness[4];
   // give all colours different periods, 
-  int   delta[] = {2,7,3,5};
+  int   delta[] = {2,7,3,5,11,13,17};
 
   brightness[0] = 0;
   brightness[1] = 0;  
   brightness[2] = 0;
-  brightness[4] = 0;
+  brightness[3] = 0;
 
   while (1){
     // update brighness
