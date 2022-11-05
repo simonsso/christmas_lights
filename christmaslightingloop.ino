@@ -18,9 +18,8 @@ void setup() {
 void loop() {
   const int SHIFT=6;
 
-//  const int maxval = (256<<SHIFT) -1;
-//  max val of 0x4000-1 (16384) will run to 100% duty cycle.
-//  setting maxval to lower will never max out.
+  //  max val of 0x4000-1 (16384) will run to 100% duty cycle.
+  //  setting maxval to lower will never max out.
   const int maxval = 12000;
   
   int   brightness[4];
@@ -37,6 +36,7 @@ void loop() {
     for (int led = 0; led<numleds; led++) {
         brightness[led] = brightness[led] + delta[led];
         if (brightness[led] > maxval){
+           // +- are equaly bright only fade direction differs
            brightness[led] = - maxval;
         }
         // shift out and ignore LSB
