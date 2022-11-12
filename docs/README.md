@@ -13,3 +13,7 @@ A very quick hack as julpyssel. <a href="https://github.com/simonsso/christmas_l
 <img width="500" src="pink.jpg">
 <img width="500" src="julpyssel.jpg">
 <img width="500" src="box.jpg">
+<img width="500" src="barebone.jpg">
+<img width="500" src="blacknose.jpg">
+<img width="500" src="dragavlastning.jpg">
+<img width="500" src="rednose.jpg">
