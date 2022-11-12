@@ -5,7 +5,7 @@
 // Put the pins used in an array
 // For difispark Atmel Tiny 85 this works for P0 P1 and P4
 const int numleds = 7 ;
-int pin[]= {0,1,2,3,4,5,6     };
+int pin[]= {0,1,4,2,3,5,6 };
 
 void setup() {
   // set pins as outputs:
