@@ -9,6 +9,7 @@ A very quick hack as julpyssel. <a href="https://github.com/simonsso/christmas_l
 *  Measure  current and find it was low enough to be driven by a gpio
 *  Ad a arduino from the project.
 *  PWM on a few ports.
+*  A few years later deploy a new batch with the ATtiny85 digispark arduino platform
 
 <img width="500" src="pink.jpg">
 <img width="500" src="julpyssel.jpg">
