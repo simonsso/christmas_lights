@@ -7,3 +7,5 @@ A very quick hack as julpyssel.
 *  PWM on a few ports.
 
 see more at https://simonsso.github.io/christmas_lights/
+
+Rust version of the software https://github.com/simonsso/rust_christmas_lights
