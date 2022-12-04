@@ -11,9 +11,14 @@ A very quick hack as julpyssel. Source code available for two implementions [Ard
 *  PWM on a few ports.
 *  A few years later deploy a new batch with the ATtiny85 digispark arduino platform and reimplement in [Rust](https://github.com/simonsso/rust_christmas_lights)
 
-<img width="500" src="pink.jpg">
+### First version
+
 <img width="500" src="julpyssel.jpg">
+<img width="500" src="pink.jpg">
 <img width="500" src="box.jpg">
+
+### 2022 upgraded hardware
+
 <img width="500" src="barebone.jpg">
 <img width="500" src="blacknose.jpg">
 <img width="500" src="dragavlastning.jpg">
